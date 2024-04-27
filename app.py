@@ -1,1 +1,2 @@
-print('Hello World!git init')
+greeting = 'Hello World !'
+print (greeting)
